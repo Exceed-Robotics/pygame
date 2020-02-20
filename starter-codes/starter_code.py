@@ -29,12 +29,12 @@ clock = pg.time.Clock()
 
 # Add your colors here
 
-# Add your shape objects here
+# Add your shape params here
 
 # Add other global variables here
 
 while True:
   # Add Code Here and remove pass
-  
+
   pg.display.flip() # To update the screen
   clock.tick(60) # Setting game FPS
